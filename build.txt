@@ -1,0 +1,3 @@
+displayName = Better SSC
+author = Duze
+version = 1.0
